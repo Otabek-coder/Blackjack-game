@@ -6,7 +6,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(36, 34, 34);
+    background-color: rgb(36, 34);
     background-blend-mode: multiply;
     background-image: url(../image/card.jpg);
     background-repeat: no-repeat;
